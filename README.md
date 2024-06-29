@@ -1,6 +1,8 @@
 # Multi-Base Numerical Converter
 
 This project is a simple web-based application that allows users to convert numbers between different numerical bases ranging from 2 to 16. It includes a user interface to input the number and the bases, and it provides the converted result. The project is implemented using HTML, CSS, and JavaScript.
+## Screenshot
+![image](https://github.com/gitbiruk2010/Multi-Base-Numerical-Converter/assets/103274295/bb4fe9fa-db9f-40b5-baee-ee90610254cf)
 
 ## Table of Contents
 
@@ -11,7 +13,7 @@ This project is a simple web-based application that allows users to convert numb
 - [License](#license)
 
 ## Clone
-git clone 
+git clone https://github.com/gitbiruk2010/Multi-Base-Numerical-Converter
 ## Installation
 
 To run this project, you need to have a web browser installed on your computer. You can either open the `index.html` file directly in your browser or use a local development server.
